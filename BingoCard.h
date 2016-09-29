@@ -12,5 +12,5 @@ public:
 	//void ShuffleCard();
 	void PrintCard();
 	int card[TOTAL_BALLS_ROW][TOTAL_BALLS_COL];
-	int minColVal = 1;
-}
+	int minColVal;
+};

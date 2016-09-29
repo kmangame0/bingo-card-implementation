@@ -13,7 +13,7 @@ void BingoCard::InitCard(){
 		
 		for(int j = 0; j <= TOTAL_BALLS_COL; j++){
 			
-			card[i][j] = minColVal
+			card[i][j] = minColVal;
 		
 		}
 	
